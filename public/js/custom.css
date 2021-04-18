@@ -1,0 +1,67 @@
+.music_details_wrapper {
+	clear:both;
+    padding: 60px 0 0;
+}
+.sucess-story{
+	background-image:url(../images/author1.jpg);
+	background-repeat:no-repeat;
+	padding:125px 0;
+	background-size:cover;
+}
+.music_blog{
+	height:320px;
+}
+.search_details_wrapper{
+	clear:both;
+	padding:50px 0;
+	background-color:#fff;
+}
+.feature_artist_wrapper{
+	clear:both;
+	padding:50px 0;
+	background-color:#f9f9f9;
+}
+.art_name,.profile-pic{
+	display:inline-block;
+}
+.profile-pic{
+	margin-left:20px;
+}
+.art_details_wrapper{
+	clear:both;
+	padding:80px 0;
+	background-color:#f9f9f9;
+}
+.art_social_details .table td,.art_social_details .table th{
+	border-top:0px;
+	padding:3px 0;
+}
+.art_social_details ul li{
+	display:inline-block;
+}
+.art_work_list {
+    background-color: #bcbcbc;
+    padding: 5px 0;
+    height: 285px;
+    text-align: center;
+}
+.art_work_list_wrapper{
+	clear:both;
+	padding:100px 0;
+	position:relative;
+}
+.our_panel_wrapper{
+	clear:both;
+	padding:80px 0;
+	background-color:#f9f9f9;
+}
+@media (min-width:992px) and (max-width: 1199px) {
+	.art_work_list{
+		height:235px;
+	}	
+}
+@media only screen and (max-width: 767px) {
+	.music_blog,.art_work_list{
+		height:auto;
+	}
+}

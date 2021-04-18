@@ -1,0 +1,44 @@
+[29-12-2020 08:38:15] PayPal\Core\PayPalHttpConnection : INFO: POST https://api.paypal.com/v1/oauth2/token
+[29-12-2020 08:38:15] PayPal\Core\PayPalHttpConnection : INFO: Response Status 	: 200
+[29-12-2020 08:38:15] PayPal\Core\PayPalHttpConnection : INFO: GET https://api.paypal.com/v1/payments/billing-agreements/I-35WTNUAXDDFC
+[29-12-2020 08:38:15] PayPal\Core\PayPalHttpConnection : INFO: Response Status 	: 200
+[29-12-2020 11:13:33] PayPal\Core\PayPalHttpConnection : INFO: POST https://api.paypal.com/v1/oauth2/token
+[29-12-2020 11:13:33] PayPal\Core\PayPalHttpConnection : INFO: Response Status 	: 200
+[29-12-2020 11:13:33] PayPal\Core\PayPalHttpConnection : INFO: GET https://api.paypal.com/v1/payments/billing-agreements/I-35WTNUAXDDFC
+[29-12-2020 11:13:33] PayPal\Core\PayPalHttpConnection : INFO: Response Status 	: 200
+[04-02-2021 19:55:13] PayPal\Core\PayPalHttpConnection : INFO: POST https://api.paypal.com/v1/oauth2/token
+[04-02-2021 19:55:13] PayPal\Core\PayPalHttpConnection : INFO: Response Status 	: 200
+[04-02-2021 19:55:13] PayPal\Core\PayPalHttpConnection : INFO: GET https://api.paypal.com/v1/payments/billing-agreements/I-BA3VUF784XK8
+[04-02-2021 19:55:14] PayPal\Core\PayPalHttpConnection : INFO: Response Status 	: 200
+[04-02-2021 19:56:12] PayPal\Core\PayPalHttpConnection : INFO: POST https://api.paypal.com/v1/oauth2/token
+[04-02-2021 19:56:12] PayPal\Core\PayPalHttpConnection : INFO: Response Status 	: 200
+[04-02-2021 19:56:12] PayPal\Core\PayPalHttpConnection : INFO: GET https://api.paypal.com/v1/payments/billing-agreements/I-BA3VUF784XK8
+[04-02-2021 19:56:13] PayPal\Core\PayPalHttpConnection : INFO: Response Status 	: 200
+[05-02-2021 02:49:19] PayPal\Core\PayPalHttpConnection : INFO: POST https://api.paypal.com/v1/oauth2/token
+[05-02-2021 02:49:20] PayPal\Core\PayPalHttpConnection : INFO: Response Status 	: 200
+[05-02-2021 02:49:20] PayPal\Core\PayPalHttpConnection : INFO: GET https://api.paypal.com/v1/payments/billing-agreements/I-BA3VUF784XK8
+[05-02-2021 02:49:20] PayPal\Core\PayPalHttpConnection : INFO: Response Status 	: 200
+[05-02-2021 03:31:50] PayPal\Core\PayPalHttpConnection : INFO: POST https://api.paypal.com/v1/oauth2/token
+[05-02-2021 03:31:50] PayPal\Core\PayPalHttpConnection : INFO: Response Status 	: 200
+[05-02-2021 03:31:50] PayPal\Core\PayPalHttpConnection : INFO: GET https://api.paypal.com/v1/payments/billing-agreements/I-BA3VUF784XK8
+[05-02-2021 03:31:51] PayPal\Core\PayPalHttpConnection : INFO: Response Status 	: 200
+[05-02-2021 03:32:54] PayPal\Core\PayPalHttpConnection : INFO: POST https://api.paypal.com/v1/oauth2/token
+[05-02-2021 03:32:54] PayPal\Core\PayPalHttpConnection : INFO: Response Status 	: 200
+[05-02-2021 03:32:54] PayPal\Core\PayPalHttpConnection : INFO: GET https://api.paypal.com/v1/payments/billing-agreements/I-BA3VUF784XK8
+[05-02-2021 03:32:55] PayPal\Core\PayPalHttpConnection : INFO: Response Status 	: 200
+[05-02-2021 03:33:45] PayPal\Core\PayPalHttpConnection : INFO: POST https://api.paypal.com/v1/oauth2/token
+[05-02-2021 03:33:45] PayPal\Core\PayPalHttpConnection : INFO: Response Status 	: 200
+[05-02-2021 03:33:45] PayPal\Core\PayPalHttpConnection : INFO: GET https://api.paypal.com/v1/payments/billing-agreements/I-BA3VUF784XK8
+[05-02-2021 03:33:46] PayPal\Core\PayPalHttpConnection : INFO: Response Status 	: 200
+[05-02-2021 03:34:49] PayPal\Core\PayPalHttpConnection : INFO: POST https://api.paypal.com/v1/oauth2/token
+[05-02-2021 03:34:49] PayPal\Core\PayPalHttpConnection : INFO: Response Status 	: 200
+[05-02-2021 03:34:49] PayPal\Core\PayPalHttpConnection : INFO: GET https://api.paypal.com/v1/payments/billing-agreements/I-BA3VUF784XK8
+[05-02-2021 03:34:50] PayPal\Core\PayPalHttpConnection : INFO: Response Status 	: 200
+[13-02-2021 01:58:08] PayPal\Core\PayPalHttpConnection : INFO: POST https://api.paypal.com/v1/oauth2/token
+[13-02-2021 01:58:08] PayPal\Core\PayPalHttpConnection : INFO: Response Status 	: 200
+[13-02-2021 01:58:08] PayPal\Core\PayPalHttpConnection : INFO: GET https://api.paypal.com/v1/payments/billing-agreements/I-KLHJLUYBL5GV
+[13-02-2021 01:58:09] PayPal\Core\PayPalHttpConnection : INFO: Response Status 	: 200
+[17-02-2021 16:48:46] PayPal\Core\PayPalHttpConnection : INFO: POST https://api.paypal.com/v1/oauth2/token
+[17-02-2021 16:48:47] PayPal\Core\PayPalHttpConnection : INFO: Invalid or no certificate authority found - Retrying using bundled CA certs file
+[18-02-2021 16:27:49] PayPal\Core\PayPalHttpConnection : INFO: POST https://api.paypal.com/v1/oauth2/token
+[18-02-2021 16:27:50] PayPal\Core\PayPalHttpConnection : INFO: Invalid or no certificate authority found - Retrying using bundled CA certs file
